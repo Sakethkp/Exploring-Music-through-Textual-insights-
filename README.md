@@ -3,3 +3,7 @@ The goal of the Project is to employ natural language processing (NLP) technique
 The dataset is taken from Kaggle and is divided into two subsets: one with song lyrics (links, lyrics, names, and language) and the other with artist information (artist ID, songs, popularity, and links).
 Genres: Hip pop, Rock, Pop, Pop/Rock, Rap, Romantico, Axe, Reggae…etc
 Dataset link: https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres
+
+Team Members - Neha Reddy Yenugu
+Saketh Kallepalli
+Ashritha Gugire
